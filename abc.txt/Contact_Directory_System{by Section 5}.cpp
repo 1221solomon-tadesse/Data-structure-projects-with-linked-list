@@ -4,11 +4,11 @@
 #include <iomanip>
 #include <stdlib.h>
 /*  Group Members			ID number
-    1.Mohammed Jafar   		    UGR/22624/13
-    2.Mulatu Shiferaw			UGR/23486/13
-    3.Degife Fura				UGR/22944/13
-    4.Habtamu Tadesse			UGR/22737/13
-    5.Fuad umer        		    UGR/23250/13
+    1 solomon tadesse 		    UGR/23953/13
+    2.********			    ************
+    3.********* 	 	     ********
+    4.**********			***********
+    5. ********        		    U************
                 Section 5;
                 group 10;
     */
@@ -186,11 +186,11 @@ void groupMembers(){
     cout<<"\t----------------------------------------------------"<<endl;
     cout<<"\t\t *Section 5*  "<<setw(20)<<"Group:10"<<endl;
     cout<<"\t\t *Group Members*  "<<setw(20)<<"ID number"<<endl;
-    cout<<"\t\t1. Mohammed Jafar "<<setw(20)<<"UGR/22624/13"<<endl;
-    cout<<"\t\t2. Mulatu Shiferaw"<<setw(20)<<"UGR/23486/13"<<endl;
-    cout<<"\t\t3. Degife Fura	  "<<setw(20)<<"UGR/22944/13"<<endl;
-    cout<<"\t\t4. Habtamu Tadesse"<<setw(20)<<"UGR/22737/13"<<endl;
-    cout<<"\t\t5. Fuad umer      "<<setw(20)<<"UGR/23250/13"<<endl;
+    cout<<"solomon tadesse "<<setw(20)<<"UGR*******"<<endl;
+    cout<<"\t\t2. Mu***"<<setw(20)<<"UGR******"<<endl;
+    cout<<"\t\t3. ******	  "<<setw(20)<<"UGR*****"<<endl;
+    cout<<"\t\t4. *********"<<setw(20)<<"UGR/******"<<endl;
+    cout<<"\t\t5. *****      "<<setw(20)<<"UGR/******"<<endl;
     cout<<"\t----------------------------------------------------"<<endl;
     cout<<"\t----------------------------------------------------"<<endl;
 }
