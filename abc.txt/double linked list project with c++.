@@ -1,11 +1,11 @@
 /*****->>"Title ASTU CSE department and software program student registration"**********.
 *Section 10*********Group:20
     *Group Members********ID number  
-     1.Tsdenia Sisay *******UGR/26316/14
-     2.Mihret  Lealem *******UGR/25335/14
-     3.Mihret  Habitamu ******UGR/25499/14
-     4.Mistre  Seyoum ******UGR/25559/14
-     5.Tekle_mariam  Girma ***UGR/25641/14
+     1.T *******UGR/2616/14
+     2.M *******UGR/2535/14
+     3.M  Hu ******UGR/2549/14
+     4.M  Se ******UGR/2559/14
+     5.  G ***UGR/2541/14
    ---------------------------------------------------
    */
 #include <iostream>
@@ -165,11 +165,11 @@ void groupMembers(){
     cout<<"\t----------------------------------------------------"<<endl;
     cout<<"\t\t *Section 10*         "<<setw(20)<<"Group:20"<<endl;
     cout<<"\t\t *Group Members*      "<<setw(20)<<"ID number"<<endl;
-    cout<<"\t\t1. Tsdenia Sisay       "<<setw(20)<<"UGR/26316/14"<<endl;
-    cout<<"\t\t2. Mihret  Lealem      "<<setw(20)<<"UGR/25335/14"<<endl;
-    cout<<"\t\t3. Mihret  Habitamu    "<<setw(20)<<"UGR/25499/14"<<endl;
-    cout<<"\t\t4. Mistre  Seyoum       "<<setw(20)<<"UGR/25559/14"<<endl;
-    cout<<"\t\t5. Tekle_mariam  Girma"<<setw(20)<<"UGR/25641/14"<<endl;
+    cout<<"\t\t1. Ts       "<<setw(20)<<"UGR/2616/14"<<endl;
+    cout<<"\t\t2. Mi      "<<setw(20)<<"UGR/2535/14"<<endl;
+    cout<<"\t\t3. Mih   "<<setw(20)<<"UGR/2599/14"<<endl;
+    cout<<"\t\t4. Mis       "<<setw(20)<<"UGR/2559/14"<<endl;
+    cout<<"\t\t5. Tekle    "<<setw(20)<<"UGR/2641/14"<<endl;
     cout<<"\t----------------------------------------------------"<<endl;
     cout<<"\t----------------------------------------------------"<<endl;
 }
